@@ -1,1 +1,1 @@
-# basic-intellij
+# basic-intellij proyect java
